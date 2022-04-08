@@ -1,1 +1,1 @@
-# basicCryptoDex
+# cryptoDex
